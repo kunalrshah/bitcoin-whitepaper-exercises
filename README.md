@@ -1,4 +1,4 @@
-# Bitcoin Whitepaper Exercises
+# Bitcoin Whitepaper Exercises -- Kunal's Version
 
 In these exercises, you will learn about blockchains from the perspective of the [original Bitcoin Whitepaper](https://bitcoin.org/en/bitcoin-paper).
 
